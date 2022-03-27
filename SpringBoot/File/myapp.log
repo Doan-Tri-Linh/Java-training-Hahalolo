@@ -1,0 +1,900 @@
+2022-03-2414:06:10INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 5460 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2414:06:10INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2414:06:12INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2414:06:12INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2414:06:12INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2414:06:12INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2414:06:12INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1385 ms
+2022-03-2414:06:13WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2414:06:13INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2414:06:13INFO c.e.d.DemoApplication:61-Started DemoApplication in 3.46 seconds (JVM running for 5.266)
+2022-03-2414:46:36INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 5871 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2414:46:36INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2414:46:37INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2414:46:37INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2414:46:37INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2414:46:37INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2414:46:37INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1366 ms
+2022-03-2414:46:38WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2414:46:38INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2414:46:38INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.897 seconds (JVM running for 4.123)
+2022-03-2414:46:43INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2414:46:43INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2414:46:43INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 2 ms
+2022-03-2414:46:43INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2414:49:14INFO c.e.d.s.ImplService:25-getEmployees
+2022-03-2414:49:59INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 5912 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2414:49:59INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2414:50:01INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2414:50:01INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2414:50:01INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2414:50:01INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2414:50:01INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1721 ms
+2022-03-2414:50:02WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2414:50:02INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2414:50:02INFO c.e.d.DemoApplication:61-Started DemoApplication in 3.155 seconds (JVM running for 4.558)
+2022-03-2414:50:08INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2414:50:08INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2414:50:08INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 2 ms
+2022-03-2414:50:08INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2414:50:12WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-03-2414:50:18INFO c.e.d.s.ImplService:25-getEmployees
+2022-03-2414:50:19INFO c.e.d.s.ImplService:25-getEmployees
+2022-03-2414:55:47INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 5969 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2414:55:47INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2414:55:49INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2414:55:49INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2414:55:49INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2414:55:49INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2414:55:49INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1301 ms
+2022-03-2414:55:49WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2414:55:49INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2414:55:49INFO c.e.d.DemoApplication:61-Started DemoApplication in 3.273 seconds (JVM running for 4.571)
+2022-03-2414:55:58INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2414:55:59INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2414:55:59INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 4 ms
+2022-03-2414:55:59INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2414:56:06INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2414:57:41INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2414:59:15INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 6011 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2414:59:15INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2414:59:17INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2414:59:17INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2414:59:17INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2414:59:17INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2414:59:17INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1661 ms
+2022-03-2414:59:17WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2414:59:17INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2414:59:17INFO c.e.d.DemoApplication:61-Started DemoApplication in 3.348 seconds (JVM running for 5.016)
+2022-03-2414:59:27INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2414:59:27INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2414:59:27INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 7 ms
+2022-03-2414:59:27INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2414:59:34INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2415:03:09INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:03:18INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:03:20INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:03:26INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2415:04:35INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 6067 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2415:04:35INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2415:04:38INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2415:04:38INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2415:04:38INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2415:04:38INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2415:04:38INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 2530 ms
+2022-03-2415:04:38WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2415:04:39INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2415:04:39INFO c.e.d.DemoApplication:61-Started DemoApplication in 4.762 seconds (JVM running for 6.674)
+2022-03-2415:04:41INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2415:04:41INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2415:04:41INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 3 ms
+2022-03-2415:04:41INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:04:43INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:04:44INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:04:54INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2415:05:49INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 6085 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2415:05:49INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2415:05:51INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2415:05:51INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2415:05:51INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2415:05:51INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2415:05:51INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 2056 ms
+2022-03-2415:05:51WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2415:05:51INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2415:05:51INFO c.e.d.DemoApplication:61-Started DemoApplication in 4.148 seconds (JVM running for 6.481)
+2022-03-2415:06:03INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2415:06:03INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2415:06:03INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2415:06:03INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:06:05INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:06:05INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:06:06INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:07:12INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:07:13INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:07:14INFO c.e.d.c.EmployeeController:21-loi roi
+2022-03-2415:07:23INFO c.e.d.s.ImplService:22-getEmployees
+2022-03-2419:51:53INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8248 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2419:51:53INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2419:51:54INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2419:51:54INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2419:51:54INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2419:51:54INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2419:51:54INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 982 ms
+2022-03-2419:51:54WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2419:51:54INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2419:51:54INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.416 seconds (JVM running for 3.557)
+2022-03-2419:54:12INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8269 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2419:54:12INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2419:54:13INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2419:54:13INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2419:54:13INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2419:54:13INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2419:54:13INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1030 ms
+2022-03-2419:54:13WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2419:54:13INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2419:54:13INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.125 seconds (JVM running for 3.526)
+2022-03-2419:55:39INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2419:55:39INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2419:55:39INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 5 ms
+2022-03-2419:55:40INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2419:55:40ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null
+	at abc.service.IplmService.ImplService.addEmployees(ImplService.java:29)
+	at com.example.demo.controller.EmployeeController.add(EmployeeController.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2419:56:23INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2419:56:23ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null
+	at abc.service.IplmService.ImplService.addEmployees(ImplService.java:29)
+	at com.example.demo.controller.EmployeeController.add(EmployeeController.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2419:56:32INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8349 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2419:56:32INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2419:56:33INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2419:56:33INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2419:56:33INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2419:56:33INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2419:56:33INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 981 ms
+2022-03-2419:56:33WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2419:56:33INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2419:56:33INFO c.e.d.DemoApplication:61-Started DemoApplication in 1.931 seconds (JVM running for 2.96)
+2022-03-2419:56:38INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2419:56:38INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2419:56:38INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2419:56:38INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2419:56:38ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null
+	at abc.service.IplmService.ImplService.addEmployees(ImplService.java:28)
+	at com.example.demo.controller.EmployeeController.add(EmployeeController.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2419:57:15INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8361 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2419:57:15INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2419:57:16INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2419:57:16INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2419:57:16INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2419:57:16INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2419:57:16INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1114 ms
+2022-03-2419:57:16WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2419:57:16INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2419:57:16INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.178 seconds (JVM running for 3.053)
+2022-03-2419:57:22INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2419:57:22INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2419:57:22INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2419:57:22INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2419:57:22ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null] with root cause
+java.lang.NullPointerException: Cannot invoke "com.example.demo.repository.EmployeeInter.save(com.example.demo.model.Employee)" because "this.EmployeeRepository" is null
+	at abc.service.IplmService.ImplService.addEmployees(ImplService.java:28)
+	at com.example.demo.controller.EmployeeController.add(EmployeeController.java:26)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:909)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2419:58:08INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8374 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2419:58:08INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2419:58:09INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2419:58:09INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2419:58:09INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2419:58:09INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2419:58:09INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 900 ms
+2022-03-2419:58:09WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2419:58:09INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2419:58:09INFO c.e.d.DemoApplication:61-Started DemoApplication in 1.977 seconds (JVM running for 2.932)
+2022-03-2419:58:12INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2419:58:12INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2419:58:12INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 4 ms
+2022-03-2419:58:12INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2419:59:55INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:00:02WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-03-2420:00:03WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2022-03-2420:00:07INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2420:00:08INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2420:00:09INFO c.e.d.c.EmployeeController:24-loi roi
+2022-03-2420:00:16INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:29:58INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8748 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:29:58INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:29:58WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:29:59ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:30:19INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8753 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:30:19INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:30:19WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:30:19ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:31:46INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8767 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:31:46INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:31:46WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:31:47ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:33:27INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8790 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:33:27INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:33:27WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:33:27ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:34:00INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8799 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:34:00INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:34:00WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:34:00ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:34:33INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8810 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:34:33INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:34:33WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:34:33ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:35:47INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8824 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:35:47INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:35:48WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:35:48ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:35:58INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8828 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:35:58INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:35:59INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:35:59INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:35:59INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:35:59INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:35:59INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1046 ms
+2022-03-2420:35:59WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'employeeController': Unsatisfied dependency expressed through field 'employeeService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'abc.service.EmployeeService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}
+2022-03-2420:35:59INFO o.a.c.c.StandardService:173-Stopping service [Tomcat]
+2022-03-2420:35:59INFO o.s.b.a.l.ConditionEvaluationReportLoggingListener:136-
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-03-2420:35:59ERRORo.s.b.d.LoggingFailureAnalysisReporter:40-
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field employeeService in com.example.demo.controller.EmployeeController required a bean of type 'abc.service.EmployeeService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'abc.service.EmployeeService' in your configuration.
+
+2022-03-2420:36:20INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8832 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:36:20INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:36:20WARN o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:591-Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+2022-03-2420:36:20ERRORo.s.b.SpringApplication:830-Application run failed
+org.springframework.beans.factory.BeanDefinitionStoreException: Failed to parse configuration class [com.example.demo.DemoApplication]; nested exception is org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:189)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.processConfigBeanDefinitions(ConfigurationClassPostProcessor.java:331)
+	at org.springframework.context.annotation.ConfigurationClassPostProcessor.postProcessBeanDefinitionRegistry(ConfigurationClassPostProcessor.java:247)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanDefinitionRegistryPostProcessors(PostProcessorRegistrationDelegate.java:311)
+	at org.springframework.context.support.PostProcessorRegistrationDelegate.invokeBeanFactoryPostProcessors(PostProcessorRegistrationDelegate.java:112)
+	at org.springframework.context.support.AbstractApplicationContext.invokeBeanFactoryPostProcessors(AbstractApplicationContext.java:746)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:564)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:145)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:740)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:415)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:303)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1301)
+	at com.example.demo.DemoApplication.main(DemoApplication.java:12)
+Caused by: org.springframework.context.annotation.ConflictingBeanDefinitionException: Annotation-specified bean name 'implService' for bean class [com.example.demo.service.IplmService.ImplService] conflicts with existing, non-compatible bean definition of same name and class [abc.service.IplmService.ImplService]
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.checkCandidate(ClassPathBeanDefinitionScanner.java:349)
+	at org.springframework.context.annotation.ClassPathBeanDefinitionScanner.doScan(ClassPathBeanDefinitionScanner.java:287)
+	at org.springframework.context.annotation.ComponentScanAnnotationParser.parse(ComponentScanAnnotationParser.java:128)
+	at org.springframework.context.annotation.ConfigurationClassParser.doProcessConfigurationClass(ConfigurationClassParser.java:296)
+	at org.springframework.context.annotation.ConfigurationClassParser.processConfigurationClass(ConfigurationClassParser.java:250)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:207)
+	at org.springframework.context.annotation.ConfigurationClassParser.parse(ConfigurationClassParser.java:175)
+	... 13 common frames omitted
+2022-03-2420:38:03INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8848 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:38:03INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:38:04INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:38:04INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:38:04INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:38:04INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:38:04INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 911 ms
+2022-03-2420:38:04WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:38:04INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:38:04INFO c.e.d.DemoApplication:61-Started DemoApplication in 1.877 seconds (JVM running for 3.031)
+2022-03-2420:38:16INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:38:16INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:38:16INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 0 ms
+2022-03-2420:38:16INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:38:22INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:38:27INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:38:30INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:38:34WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-03-2420:38:43INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:39:46INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8877 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:39:46INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:39:47INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:39:47INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:39:47INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:39:47INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:39:47INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1027 ms
+2022-03-2420:39:48WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:39:48INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:39:48INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.188 seconds (JVM running for 3.012)
+2022-03-2420:39:54INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:39:54INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:39:54INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2420:39:54WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'index' for method parameter type int is not present]
+2022-03-2420:42:30WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'index' for method parameter type int is not present]
+2022-03-2420:42:39INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8914 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:42:39INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:42:40INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:42:40INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:42:40INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:42:40INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:42:40INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 997 ms
+2022-03-2420:42:41WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:42:41INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:42:41INFO c.e.d.DemoApplication:61-Started DemoApplication in 1.983 seconds (JVM running for 2.914)
+2022-03-2420:42:55INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:42:55INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:42:55INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 2 ms
+2022-03-2420:42:55INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:42:57INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:42:58INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:42:58INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:42:58INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:43:01INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:43:01INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:43:09INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:43:14WARN o.s.w.s.m.s.DefaultHandlerExceptionResolver:208-Resolved [org.springframework.web.bind.MissingPathVariableException: Required URI template variable 'index' for method parameter type int is not present]
+2022-03-2420:46:26INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 8992 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:46:26INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:46:27INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:46:27INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:46:27INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:46:27INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:46:27INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1091 ms
+2022-03-2420:46:27WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:46:28INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:46:28INFO c.e.d.DemoApplication:61-Started DemoApplication in 1.926 seconds (JVM running for 2.81)
+2022-03-2420:46:46INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:46:46INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:46:46INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 2 ms
+2022-03-2420:46:47INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:46:50INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:46:51INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:47:01INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:50:01INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 9047 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:50:01INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:50:02INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:50:02INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:50:02INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:50:02INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:50:02INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 920 ms
+2022-03-2420:50:03WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:50:03INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:50:03INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.06 seconds (JVM running for 3.071)
+2022-03-2420:50:21INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:50:21INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:50:21INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2420:50:21INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:50:21INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:50:22INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:50:23INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:50:35ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 200 out of bounds for length 4] with root cause
+java.lang.IndexOutOfBoundsException: Index 200 out of bounds for length 4
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.example.demo.repository.IplmDAO.EmployeeRepository.findByindex(EmployeeRepository.java:40)
+	at abc.service.IplmService.ImplService.getByIndex(ImplService.java:34)
+	at com.example.demo.controller.EmployeeController.getIndex(EmployeeController.java:34)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2420:51:52INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 9074 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:51:52INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:51:53INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:51:53INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:51:53INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:51:53INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:51:53INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1198 ms
+2022-03-2420:51:54WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:51:54INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:51:54INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.849 seconds (JVM running for 4.274)
+2022-03-2420:52:19INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-03-2420:52:19INFO o.s.w.s.DispatcherServlet:525-Initializing Servlet 'dispatcherServlet'
+2022-03-2420:52:19INFO o.s.w.s.DispatcherServlet:547-Completed initialization in 1 ms
+2022-03-2420:52:19INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:21INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:25INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:25INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:26INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:26INFO c.e.d.c.EmployeeController:22-loi roi
+2022-03-2420:52:32INFO a.s.I.ImplService:23-getEmployees
+2022-03-2420:52:41ERRORc.e.d.r.I.EmployeeRepository:35-nhap so luong phan tu 
+2022-03-2420:52:41ERRORo.a.c.c.C.[.[.[.[dispatcherServlet]:175-Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is java.lang.IndexOutOfBoundsException: Index 10000 out of bounds for length 6] with root cause
+java.lang.IndexOutOfBoundsException: Index 10000 out of bounds for length 6
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at com.example.demo.repository.IplmDAO.EmployeeRepository.findByindex(EmployeeRepository.java:41)
+	at abc.service.IplmService.ImplService.getByIndex(ImplService.java:34)
+	at com.example.demo.controller.EmployeeController.getIndex(EmployeeController.java:34)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:150)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:117)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:895)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:808)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1067)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:963)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1006)
+	at org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:898)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:655)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:883)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:117)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:359)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:889)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1735)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+2022-03-2420:55:59INFO c.e.d.DemoApplication:55-Starting DemoApplication using Java 16.0.1 on oscar-3.local with PID 9124 (/Users/oscar/Desktop/Java/SpringBoot/target/classes started by oscar in /Users/oscar/Desktop/Java/SpringBoot)
+2022-03-2420:55:59INFO c.e.d.DemoApplication:640-No active profile set, falling back to 1 default profile: "default"
+2022-03-2420:56:00INFO o.s.b.w.e.t.TomcatWebServer:108-Tomcat initialized with port(s): 8080 (http)
+2022-03-2420:56:00INFO o.a.c.c.StandardService:173-Starting service [Tomcat]
+2022-03-2420:56:00INFO o.a.c.c.StandardEngine:173-Starting Servlet engine: [Apache Tomcat/9.0.58]
+2022-03-2420:56:00INFO o.a.c.c.C.[.[.[/]:173-Initializing Spring embedded WebApplicationContext
+2022-03-2420:56:00INFO o.s.b.w.s.c.ServletWebServerApplicationContext:290-Root WebApplicationContext: initialization completed in 1097 ms
+2022-03-2420:56:01WARN o.s.b.a.t.ThymeleafAutoConfiguration$DefaultTemplateResolverConfiguration:106-Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2022-03-2420:56:01INFO o.s.b.w.e.t.TomcatWebServer:220-Tomcat started on port(s): 8080 (http) with context path ''
+2022-03-2420:56:01INFO c.e.d.DemoApplication:61-Started DemoApplication in 2.2 seconds (JVM running for 3.323)
